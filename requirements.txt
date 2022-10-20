@@ -1,4 +1,2 @@
+PyJSONViewer
 requests
-json
-shutil
-# https://github.com/githork/dofus-api-2
